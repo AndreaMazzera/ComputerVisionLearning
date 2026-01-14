@@ -13,8 +13,6 @@ The general goals and learning path are described below. However, since this is 
 
 Finally, in the spirit of a personal learning project, any suggestion, correction, or feedback is highly encouraged.
 
----
-
 ## 🎯 Goals
 
 The goals of this learning path are:
@@ -23,8 +21,6 @@ The goals of this learning path are:
 - To learn how to use Python and OpenCV
 - To build a solid foundation for advanced computer vision and deep learning topics
 - To develop the skills required to build complex projects
-
----
 
 ## 🛤️ Learning Path
 
@@ -36,24 +32,18 @@ The goals of this learning path are:
 6. Computer Vision: feature detection
 7. Work in progress...
 
----
-
 ## 🛠️ Technologies
 
 - Python
 - OpenCV
 - NumPy
 
----
-
 ## 📚 References
 
+- Wikipedia  
 - OpenCV Documentation  
 - *Learning OpenCV* – Gary Bradski & Adrian Kaehler  
-- Wikipedia  
-
-### Online articles and materials
-
+- freeCodeCamporg: OpenCV Course - Complete Tutorial with Python
 - RAI – Digital Image Processing  
   http://www.crit.rai.it/eletel/2005-3/53-8.pdf
 
